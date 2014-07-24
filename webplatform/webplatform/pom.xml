@@ -4,4 +4,12 @@
   <artifactId>webplatform</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+
+  <modules>
+    <module>../webplatform-common</module>
+    <module>../webplatform-dao</module>
+    <module>../webplatform-database</module>
+    <module>../webplatform-model</module>
+    <module>../webplatfrom-web</module>
+  </modules>
 </project>
